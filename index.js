@@ -1,7 +1,7 @@
 
 let userPreference = 'Sugar-free'; 
 console.log('this user prefers', userPreference ? userPreference : 'Regular');
-
+//
 let cansLeft = 3; 
 console.log(cansLeft < 5 ? 'Time to stock':'We re stocked'   );//check if cans left is less than 5 or more...then stock more cans
 
